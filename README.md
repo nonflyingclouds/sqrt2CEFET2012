@@ -3,8 +3,8 @@
 Uma função para calcular raiz quadradas aproximadas.  
 Tive a ideia de fazer ela depois de ver uma questão do CEFET-RJ de 2012.
 
-> Não use esse código caso sua meta seja precisão nos resultados ou velocidade para calcular as raízes.
-> Pois nenhum dos dois quesitos foi testado por mim, porém acredito que ele seja mais lento do que a função sqrt() nativa do C.
+> Não use esse código caso sua meta seja precisão nos resultados ou velocidade para calcular as raízes,  
+> pois nenhuma das duis coisas foi testada por mim, porém acredito que a minha função seja mais lenta do que a função sqrt() nativa do C.
 
 ---
 
