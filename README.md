@@ -16,3 +16,7 @@ Nuh uh, eu não coloquei tanto esforço nesse programa (apesar de ter planos par
 ### A tal questão que me fez fazer esse código:
 <img width="793" height="238" alt="image" src="https://github.com/user-attachments/assets/e2e922c6-c01f-4269-9926-c07943950fb6" />
 
+<sub> Importante falar que eu não consegui fazer essa questão, mas eu fiz o código do jeito esperado pela questão. **E NÃO TINHA** alternativa caso você realmente fizesse a raiz aproximada de 3.</sub>
+
+<sub> Importante não, né? Não sei porque eu falei isso. </sub>
+
